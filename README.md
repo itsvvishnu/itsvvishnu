@@ -7,6 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -31,3 +32,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/vishnu-v-a3773b11b
+[stackoverflow]:https://stackoverflow.com/users/11391679/vishnu-v
